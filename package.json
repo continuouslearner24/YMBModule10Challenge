@@ -1,0 +1,25 @@
+{
+  "name": "ymbmodule10challenge",
+  "version": "1.0.0",
+  "description": "SVG Logo Maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/continuouslearner24/YMBModule10Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/continuouslearner24/YMBModule10Challenge/issues"
+  },
+  "homepage": "https://github.com/continuouslearner24/YMBModule10Challenge#readme",
+  "dependencies": {
+    "inquirer": "^10.1.8",
+    "jest": "^29.7.0"
+  }
+}
